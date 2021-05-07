@@ -1,0 +1,22 @@
+{
+  "name": "cryptotracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateXVI/CryptoTracker.git"
+  },
+  "author": "Nathan Diven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateXVI/CryptoTracker/issues"
+  },
+  "homepage": "https://github.com/NateXVI/CryptoTracker#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
